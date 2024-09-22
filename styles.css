@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+.subtitle {
+    text-align: center;
+}
+
 .chrono-table table{
     width: 100%;
     border: 1px solid black;
@@ -21,4 +25,27 @@
 .chrono-table td {
     border: 1px solid black;
     padding: 10px;
+}
+
+.images {
+    display: block;
+    width: 500px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.img-desc {
+    text-align: center;
+    font-style: italic;
+}
+
+.page-desc {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 250px;
+    padding-right: 250px;
 }
